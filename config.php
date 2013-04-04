@@ -9,4 +9,3 @@ $config = array(
 
 require_once('dbmodel.php');
 
-

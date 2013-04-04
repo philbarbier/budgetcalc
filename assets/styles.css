@@ -1,0 +1,91 @@
+
+
+#main_container {
+    padding: 10px;
+}
+
+#expenses {
+    min-width: 300px;
+}
+
+#summaries {
+
+}
+
+#inbound {
+
+}
+
+#periods {
+
+}
+
+#period_colour_list {
+    margin-left: 0px;
+}
+
+#period_colour_list ul li div {
+    width:120px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.summary {
+    padding: 5px;
+}
+
+.summary_row {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.period_colour {
+    height: 25px;
+}
+
+.period_title {
+    padding: 4px;
+}
+
+.inbound_colour {
+    height: 25px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.orange {
+    background-color: rgb(255,153,0);
+}
+
+.green {
+    background-color: rgb(56,118,29);
+}
+
+.inbound_allocation {
+    height: 25px;
+}
+
+.expense_allocation {
+    height: 25px;
+}
+
+.expense_colour {
+    height:25px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
